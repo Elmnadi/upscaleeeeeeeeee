@@ -1,0 +1,7 @@
+name: comfyui-workflow
+version: "1.0"
+
+# الطريقة اللي هيتشغل بيها الورك فلو
+run:
+  engine: "comfyui"
+  workflow: "workflow.json"
